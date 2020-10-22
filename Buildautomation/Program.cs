@@ -10,7 +10,7 @@ namespace Buildautomation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("build application");
+            Console.WriteLine("build application when you commit code that is poll scm");
         }
     }
 }
