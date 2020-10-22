@@ -1,0 +1,7 @@
+C:\TDD\Buildautomation\Buildautomation\bin\Debug\Buildautomation.exe.config
+C:\TDD\Buildautomation\Buildautomation\bin\Debug\Buildautomation.exe
+C:\TDD\Buildautomation\Buildautomation\bin\Debug\Buildautomation.pdb
+C:\TDD\Buildautomation\Buildautomation\obj\Debug\Buildautomation.csprojAssemblyReference.cache
+C:\TDD\Buildautomation\Buildautomation\obj\Debug\Buildautomation.csproj.CoreCompileInputs.cache
+C:\TDD\Buildautomation\Buildautomation\obj\Debug\Buildautomation.exe
+C:\TDD\Buildautomation\Buildautomation\obj\Debug\Buildautomation.pdb
